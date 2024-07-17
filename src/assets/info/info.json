@@ -1,0 +1,52 @@
+{
+  "Work Experience": [
+    {
+      "type": 1,
+      "location": "Remote",
+      "position": "QA Analyst",
+      "company": "Yuhu",
+      "start": "2024",
+      "end": ""
+    },
+    {
+      "type": 1,
+      "location": "Remote",
+      "position": "Product Success Analyst Jr",
+      "start": "Agust, 2023",
+      "company": "Yuhu",
+      "end": "2024"
+    }
+  ],
+  "Education": [
+    {
+      "type": 1,
+      "location": "Guadalajara, Mexico",
+      "position": "Biomedical Engineering Student",
+      "company": "University of Guadalajara",
+      "start": "Agust, 2019",
+      "end": "December, 2024"
+    },
+    {
+      "type": 1,
+      "location": "Montreal, Québec",
+      "position": "Mitacs Gloablink Research Intern",
+      "company": "McGill University",
+      "start": "June, 2022",
+      "end": "September, 2022"
+    }
+  ],
+  "Contact": [
+    {
+      "type": 2,
+      "socialMedia": "LinkedIn",
+      "username": "edithsantana",
+      "link": "https://www.linkedin.com/in/edithsantana/"
+    },
+    {
+      "type": 2,
+      "socialMedia": "GitHub",
+      "username": "MerSaintF",
+      "link": "https://github.com/MerSaintF"
+    }
+  ]
+}

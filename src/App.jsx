@@ -1,9 +1,19 @@
 import "./App.css";
 import info from "/src/assets/info/info.json";
 import Container from "./assets/components/Container";
-import ItemInfo from "./assets/components/ItemInfo";
 import styled from "styled-components";
 
+const AppContainer = styled.div`
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  .Contact {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+`;
 const Titulo = styled.div`
   margin: 40px 0px;
   display: flex;
@@ -11,7 +21,8 @@ const Titulo = styled.div`
   font-size: 1.2rem;
   img {
     border-radius: 50%;
-    width: 30%;
+    width: 25%;
+    padding:5%;
   }
   div {
     margin: 0 30px;
@@ -33,7 +44,7 @@ function App() {
     );
   });
   return (
-    <>
+    <AppContainer>
       <Titulo>
         <img src="src\assets\images\selfie.png"></img>
         <div>
@@ -51,7 +62,7 @@ function App() {
         </p>
       </div>
       {a}
-    </>
+    </AppContainer>
   );
 }
 

@@ -46,7 +46,7 @@ function App() {
   return (
     <AppContainer>
       <Titulo>
-        <img src="src\assets\images\selfie.png"></img>
+        <img src="public\images\selfie.png"></img>
         <div>
           <h1>Edith Santana </h1>
           <h2>Biomedical Engineer & Aspiring Front-End Developer</h2>

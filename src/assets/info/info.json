@@ -41,14 +41,14 @@
       "socialMedia": "LinkedIn",
       "username": "edithsantana",
       "link": "https://www.linkedin.com/in/edithsantana/",
-      "img": "public/images/linkedin.png"
+      "img": "/images/linkedin.png"
     },
     {
       "type": 2,
       "socialMedia": "GitHub",
       "username": "MerSaintF",
       "link": "https://github.com/MerSaintF",
-      "img": "public/images/github.png"
+      "img": "/images/github.png"
     }
   ]
 }

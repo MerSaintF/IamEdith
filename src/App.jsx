@@ -22,7 +22,7 @@ const Titulo = styled.div`
   img {
     border-radius: 50%;
     width: 25%;
-    padding:5%;
+    padding: 5%;
   }
   div {
     margin: 0 30px;
@@ -46,7 +46,7 @@ function App() {
   return (
     <AppContainer>
       <Titulo>
-        <img src="public\images\selfie.png"></img>
+        <img src="\images\selfie.png"></img>
         <div>
           <h1>Edith Santana </h1>
           <h2>Biomedical Engineer & Aspiring Front-End Developer</h2>
